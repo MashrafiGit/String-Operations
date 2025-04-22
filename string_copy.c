@@ -15,6 +15,7 @@ int main()
     //     a[i] = b[i];
     // }
 
+    // using built in function
     // shortcut for copy an array, first where we wanna copying,2nd which array we wanna copy
     strcpy(a, b);
 
