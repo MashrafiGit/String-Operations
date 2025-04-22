@@ -10,7 +10,7 @@ int main()
     // int length_a = strlen(a);
     // int length_b = strlen(b);
 
-
+ 
     // for (int i = 0; i <= length_b; i++)
     // {
     //     a[i+length_a] = b[i];
